@@ -1,6 +1,6 @@
 {
   "name": "download-counts",
-  "version": "2.0.0",
+  "version": "2.20250601.0",
   "description": "",
   "homepage": "https://github.com/nice-registry/download-counts#readme",
   "bugs": {
@@ -15,5 +15,8 @@
   "main": "counts.json",
   "files": [
     "counts.json"
-  ]
+  ],
+  "dependencies": {
+    "all-the-package-names": "^2.0.2154"
+  }
 }
